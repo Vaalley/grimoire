@@ -1,0 +1,21 @@
+{
+  "name": "grimoire",
+  "displayName": "Grimoire",
+  "description": "Grimoire is a dark and mysterious VS Code theme that is perfect for coders who want to create a magical and immersive coding environment. The theme features a rich palette of colors that are inspired by ancient grimoires, which were books of spells and magical knowledge.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "grimoire",
+        "uiTheme": "vs-dark",
+        "path": "./themes/grimoire-color-theme.json"
+      }
+    ]
+  }
+}
