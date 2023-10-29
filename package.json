@@ -5,6 +5,7 @@
 	"version": "0.1.0",
 	"publisher": "valentin-grimoire",
 	"license": "MIT",
+	"icon": "grimoire-logo-1.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Vaalley/grimoire"
