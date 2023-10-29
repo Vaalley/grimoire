@@ -1,10 +1,38 @@
 {
-	"name": "grimoire",
+	"name": "Grimoire",
 	"colors": {
+		"activityBar.background": "#1a1a1b",
+		"activityBar.foreground": "#d1d1d1",
+		"activityBarBadge.background": "#1a1a1b",
+
 		"editor.background": "#1e1e20",
 		"editor.foreground": "#eeeeee",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#d1d1d1"
+		"editorCursor.foreground": "#eeeeee",
+		"editorGroupHeader.tabsBackground": "#1e1e20",
+		"editorLineNumber.activeForeground": "#a3a3b8",
+		"editorLineNumber.foreground": "#62626e",
+
+		"menu.background": "#1e1e20",
+		"menu.foreground": "#d1d1d1",
+		"menu.selectionBackground": "#262629",
+		"menu.selectionForeground": "#d1d1d1",
+		"menubar.selectionBackground": "#262629",
+		"menubar.selectionForeground": "#d1d1d1",
+
+		"sideBar.background": "#1e1e20",
+		"sideBarSectionHeader.background": "#1a1a1b",
+		"sideBarSectionHeader.foreground": "#d1d1d1",
+		"sideBarTitle.foreground": "#d1d1d1",
+
+		"statusBar.background": "#1a1a1b",
+		"statusBar.debuggingBackground": "#1a1a1b",
+		"statusBar.debuggingForeground": "#d1d1d1",
+		"statusBar.foreground": "#d1d1d1",
+		"statusBar.noFolderBackground": "#1a1a1b",
+		"statusBar.noFolderForeground": "#d1d1d1",
+
+		"tab.inactiveBackground": "#262629",
+		"titleBar.activeBackground": "#1a1a1b"
 	},
 	"tokenColors": [
 		{
@@ -416,7 +444,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#b3e06f"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
